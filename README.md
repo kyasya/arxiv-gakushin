@@ -1,5 +1,13 @@
 # bib-gakushin
 
+![](./docs/img/bib-gakushin.png){width=500}
+
+[![MIT](https://custom-icon-badges.herokuapp.com/badge/license-MIT-8BB80A.svg?logo=law&logoColor=white)](LICENSE)
+[![Python](https://custom-icon-badges.herokuapp.com/badge/Python-3572A5.svg?logo=Python&logoColor=white)]()
+[![Windows](https://custom-icon-badges.herokuapp.com/badge/Windows-1BB2E4.svg?logo=Windows&logoColor=white)]()
+[![Linux](https://custom-icon-badges.herokuapp.com/badge/Linux-F6CE18.svg?logo=Linux&logoColor=white)]()
+[![](https://img.shields.io/badge/version-b.1.0.0-blue.svg)]()
+
 学振書くときに使えるやつ。
 
 自分の番号が何番目か書くのがめんどくさいので自分の主著、共著論文をまとめたbibリストを作っておけば読み込めるようにした。
@@ -50,3 +58,7 @@ NOTE: これはあくまで補助。現状表記揺れ等には対応してい�
 
 - **最低限の機能の実装**
 	- 自分の名前が何人目かわかる。
+
+## ライセンス
+
+[MIT License](LICENSE)
