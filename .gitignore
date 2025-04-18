@@ -1,2 +1,4 @@
 *.bib
 settings/mysettings.toml
+*.csv
+*.txt
